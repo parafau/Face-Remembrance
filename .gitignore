@@ -1,0 +1,6 @@
+#excluding virtual environment
+env/
+
+#excluding temp_faceencodings
+tmp_face_crops/*
+face_encodings.pkl
